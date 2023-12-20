@@ -3,22 +3,22 @@
 
 ## Table of Contents:
 
-- [Project Overview](ProjectOverview)
+- [Project Overview](#project-overview)
+
+- [Data Sources](#data-sources)
+
+- [Tools](#tools)
+
+- [DataCleaning/Preparation](#DataCleanining/Preparation)
+
+- [Exploratory DataAnalysis](#exploratorydatanlaysis)
+
+- [Data Analysis](#data-Analysis)
+
+- [Results/Findings](#Results/Findings)
+
+- [Recommendations](#Recommendations)
   
-
-- [Data Sources](DataSources)
-
-- [Tools](Tools)
-
-- [Data Cleaning/Preparation](DataCleanining/Preparation)
-
-- [ExploratoryDataAnalysis](ExploratoryDataAnlaysis)
-
-- [Data Analysis](DataAnalysis)
-
-- [Results/Findings](Results/Findings)
-
-- [Recommendations](Recommendations)
 
 
 ##Project Overview
@@ -50,7 +50,7 @@ Utilized the resources provided, including podcasts and articles, to enhance you
 
 -Power BI
 
-### Data Cleaning/Preparation:
+### DataCleaning/Preparation:
 
 Data Loading and Inspection
 
@@ -58,7 +58,7 @@ Handling Missing Values
 
 Data Cleaning and formatting
 
-###  Exploratory Data Analysis:
+###  Exploratory DataAnalysis:
 
 Overall Sales 
 Which Category has Maximum Sales and Quantity
