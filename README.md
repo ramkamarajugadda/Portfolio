@@ -34,7 +34,7 @@ Utilized the resources provided, including podcasts and articles, to enhance you
 
  
 
-### Data Sources:[Download Here](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data/data)
+### Data Sources [Download Here](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data/data)
 
  The Primary Data set used for Data Analysis is 
  
