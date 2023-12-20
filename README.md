@@ -11,7 +11,7 @@
 
 - [DataCleaning/Preparation](#datacleanining/preparation)
 
-- [Exploratory DataAnalysis](#exploratorydataanlaysis)
+- [Exploratory DataAnalysis](#exploratory-dataanlaysis)
 
 - [Data Analysis](#data-analysis)
 
