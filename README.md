@@ -54,6 +54,7 @@ Utilized the resources provided, including podcasts and articles, to enhance you
 
 ### DataCleaning/Preparation
 
+
 Data Loading and Inspection
 
 Handling Missing Values
@@ -62,12 +63,14 @@ Data Cleaning and formatting
 
 ### Exploratory DataAnalysis
 
+
 Overall Sales 
 Which Category has Maximum Sales and Quantity
 Predicting sales W.r.t to Malls, Age Category,Gender,Payment Method etc..
 Analysing Data wrt Csutomised Date
 
 ### Data Analysis(Some DAX Expressions)
+
 
 Day of Week Name = FORMAT('sales_data'[weekday],"dddd")
 
@@ -81,11 +84,13 @@ Date-Time = NOW()
 
 ### Results/Findings
 
+
 Sales have been steadily decreased over the past Year
 
 product Category Clothign is having Maximum Sales an Quantity
 
 ### Recommendations
+
 
 Product Category Souvenir has less quantity and sales
 
