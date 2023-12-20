@@ -21,7 +21,7 @@
   
 
 
-##Project Overview
+## Project Overview
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance
 
@@ -34,7 +34,7 @@ Utilized the resources provided, including podcasts and articles, to enhance you
 
  
 
-###Data Sources:[Download Here](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data/data)
+### Data Sources:[Download Here](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data/data)
 
  The Primary Data set used for Data Analysis is 
  
@@ -44,13 +44,13 @@ Utilized the resources provided, including podcasts and articles, to enhance you
  
  files containing detail information about Sales and Customer Data
  
-###Tools:
+### Tools 
 
 -Excel
 
 -Power BI
 
-### DataCleaning/Preparation:
+### DataCleaning/Preparation
 
 Data Loading and Inspection
 
@@ -58,14 +58,14 @@ Handling Missing Values
 
 Data Cleaning and formatting
 
-###  Exploratory DataAnalysis:
+### Exploratory DataAnalysis
 
 Overall Sales 
 Which Category has Maximum Sales and Quantity
 Predicting sales W.r.t to Malls, Age Category,Gender,Payment Method etc..
 Analysing Data wrt Csutomised Date
 
-### Data Analysis:(Some DAX Expressions)
+### Data Analysis(Some DAX Expressions)
 
 Day of Week Name = FORMAT('sales_data'[weekday],"dddd")
 
@@ -77,13 +77,13 @@ weekday/weekend = if(sales_data[weekday]>5,"Weekend","Weekday")
 
 Date-Time = NOW()
 
-### Results/Findings:
+### Results/Findings
 
 Sales have been steadily decreased over the past Year
 
 product Category Clothign is having Maximum Sales an Quantity
 
-### Recommendations:
+### Recommendations
 
 Product Category Souvenir has less quantity and sales
 
