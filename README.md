@@ -11,16 +11,16 @@
 - [Tools](#tools)
   
 
-- [DataCleaning/Preparation](#datacleaning/preparation)
+- [Datacleaning or preparation](#datacleaning-or-preparation)
 
 
-- [Exploratory DataAnalysis](#exploratory-dataanlaysis)
+- [Exploratory Data analysis](#exploratory-data-analysis)
 
 
-- [Data Analysis](#data-analysis)
+- [Data analysis](#data-analysis)
   
 
-- [Results/Findings](#results/findings)
+- [ResultsandFindings](#resultsandfindings)
   
 
 - [Recommendations](#recommendations)
@@ -40,7 +40,7 @@ Utilized the resources provided, including podcasts and articles, to enhance you
 
  
 
-### Data Sources
+## Data Sources
 
 [Download Here](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data/data)
 
@@ -52,55 +52,57 @@ Utilized the resources provided, including podcasts and articles, to enhance you
  
  files containing detail information about Sales and Customer Data
  
-### Tools 
+## Tools 
 
 -Excel
 
 -Power BI
 
-### DataCleaning/Preparation
+## Datacleaning or preparation
 
 
-Data Loading and Inspection
+-Data Loading and Inspection
 
-Handling Missing Values
+-Handling Missing Values
 
-Data Cleaning and formatting
+-Data Cleaning and formatting
 
-### Exploratory DataAnalysis
-
-
-Overall Sales 
-Which Category has Maximum Sales and Quantity
-Predicting sales W.r.t to Malls, Age Category,Gender,Payment Method etc..
-Analysing Data wrt Csutomised Date
-
-### Data Analysis(Some DAX Expressions)
+## Exploratory Data analysis
 
 
-Day of Week Name = FORMAT('sales_data'[weekday],"dddd")
+-Overall Sales 
+-Which Category has Maximum Sales and Quantity
+-Predicting sales W.r.t to Malls, Age Category,Gender,Payment Method etc..
+-Analysing Data wrt Csutomised Date
 
-price ranges = if(sales_data[price]<500,"Low","High")
+## Data analysis 
 
-weekday = WEEKDAY(sales_data[invoice_date],2)
-
-weekday/weekend = if(sales_data[weekday]>5,"Weekend","Weekday")
-
-Date-Time = NOW()
-
-### Results/Findings
+(Some DAX Expressions)
 
 
-Sales have been steadily decreased over the past Year
+-Day of Week Name = FORMAT('sales_data'[weekday],"dddd")
 
-product Category Clothign is having Maximum Sales an Quantity
+-price ranges = if(sales_data[price]<500,"Low","High")
 
-### Recommendations
+-weekday = WEEKDAY(sales_data[invoice_date],2)
+
+-weekday/weekend = if(sales_data[weekday]>5,"Weekend","Weekday")
+
+-Date-Time = NOW()
+
+## ResultsandFindings
 
 
-Product Category Souvenir has less quantity and sales
+-Sales have been steadily decreased over the past Year
 
-Products related to Male Category shall be increased
+-product Category Clothign is having Maximum Sales an Quantity
+
+## Recommendations
+
+
+-Product Category Souvenir has less quantity and sales
+
+-Products related to Male Category shall be increased
 
 
 
