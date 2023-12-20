@@ -9,7 +9,7 @@
 
 - [Tools](#tools)
 
-- [DataCleaning/Preparation](#datacleanining/preparation)
+- [DataCleaning/Preparation](#datacleaning/preparation)
 
 - [Exploratory DataAnalysis](#exploratory-dataanlaysis)
 
