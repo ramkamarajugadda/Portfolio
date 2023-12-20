@@ -9,15 +9,15 @@
 
 - [Tools](#tools)
 
-- [DataCleaning/Preparation](#DataCleanining/Preparation)
+- [DataCleaning/Preparation](#datacleanining/preparation)
 
-- [Exploratory DataAnalysis](#exploratorydatanlaysis)
+- [Exploratory DataAnalysis](#exploratorydataanlaysis)
 
-- [Data Analysis](#data-Analysis)
+- [Data Analysis](#data-analysis)
 
-- [Results/Findings](#Results/Findings)
+- [Results/Findings](#results/findings)
 
-- [Recommendations](#Recommendations)
+- [Recommendations](#recommendations)
   
 
 
