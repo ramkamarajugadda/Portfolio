@@ -7,15 +7,21 @@
 
 - [Data Sources](#data-sources)
 
+
 - [Tools](#tools)
+  
 
 - [DataCleaning/Preparation](#datacleaning/preparation)
 
+
 - [Exploratory DataAnalysis](#exploratory-dataanlaysis)
 
+
 - [Data Analysis](#data-analysis)
+  
 
 - [Results/Findings](#results/findings)
+  
 
 - [Recommendations](#recommendations)
   
