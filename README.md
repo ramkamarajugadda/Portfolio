@@ -21,7 +21,7 @@
 - [Recommendations](Recommendations)
 
 
-## Project Overview
+##Project Overview
 
 This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance
 
@@ -34,7 +34,7 @@ Utilized the resources provided, including podcasts and articles, to enhance you
 
  
 
-### Data Sources:[Download Here](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data/data)
+###Data Sources:[Download Here](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data/data)
 
  The Primary Data set used for Data Analysis is 
  
@@ -44,7 +44,7 @@ Utilized the resources provided, including podcasts and articles, to enhance you
  
  files containing detail information about Sales and Customer Data
  
-### Tools:
+###Tools:
 
 -Excel
 
