@@ -29,7 +29,11 @@ Created dashboard in Power BI for understanding Sales and Customer Data  with th
 
 Utilized the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling.
  
+
+ ![image](https://github.com/ramkamarajugadda/Portfolio/assets/154403806/c00e03ba-ea21-4b2e-a78b-de495b70ec10)
+
  
+
 ### Data Sources:[Download Here](https://www.kaggle.com/datasets/dataceo/sales-and-customer-data/data)
 
  The Primary Data set used for Data Analysis is 
